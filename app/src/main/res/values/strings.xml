@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalPlayer</string>
+    <string name="wel">WELCOME</string>
+    <string name="muScan">scan</string>
+    <string name="muSearch">search</string>
+    <string name="startScan">start scanning!please waiting</string>
+    <string name="scanOver1">over，added</string>
+    <string name="scanOver2">videos</string>
+    <string name="vList">LIST</string>
+    <string name="repeat_warning">Scanning, please do not repeat click</string>
+    <string name="permissionFailed">Failure, does not have read permission！</string>
+    <string name="scanning">scanning</string>
+    <string name="muOrder">sorting</string>
+    <string name="rbTitle">title</string>
+    <string name="rbLength">length</string>
+    <string name="rbSize">size</string>
+    <string name="hint">Video library is empty，Click the scan button in the top right corner,scan it！</string>
+    <string name="orderAsc">ascending</string>
+    <string name="actionBar_search">search the media files in the list</string>
+    <string name="searchAfterScan">please search after scanning！</string>
+    <string name="hasWatch">viewed：</string>
+    <string name="searchOver">search finished</string>
+    <string name="watchOver">Over</string>
+    <string name="muNet">网络流</string>
+    <string name="tvUrl">输入URL：</string>
+    <string name="tvUrlExample">示例 http://www.example.com/video.mkv</string>
+    <string name="hasBuffered">缓冲：</string>
+    <string name="netSpeed">网速：</string>
+    <string name="selectAudioTrack">选择音轨</string>
+    <string name="embeddedSub">内嵌字幕</string>
+    <string name="externalSub">外挂字幕</string>
+    <string name="selectSub">选择字幕</string>
+    <string name="noEmSub">无可选字幕</string>
+</resources>

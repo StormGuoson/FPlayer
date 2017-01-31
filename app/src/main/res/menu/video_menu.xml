@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/embeddedSub"
+        android:id="@+id/mu_video_emSub" />
+    <item android:title="@string/externalSub"
+        android:id="@+id/mu_video_exSub" />
+</menu>
